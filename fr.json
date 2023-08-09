@@ -3,6 +3,7 @@
 	"screen_reader_alert_text": "Veuillez sélectionner le texte pour activer le lecteur d'écran",
 	"hide_ada_tool": "Fermer le menu des préférences d'accessibilité",
 	"accessibility_preferences": "Préférences d'accessibilité",
+
 	"reset": "Réinitialiser",
 	"reset_preferences": "Remettre à zéro les préférences",
 	"choose_language": "Choisissez la langue de l'interface",
